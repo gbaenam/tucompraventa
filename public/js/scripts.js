@@ -1,2 +1,1 @@
-console.log('Hola, Bienvenidos a tucompraventa.co')
-
+console.log('Hola')
