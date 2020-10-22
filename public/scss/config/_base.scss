@@ -34,11 +34,11 @@ h1 {
 
 button {
     padding: 0;
-	border: none;
+    border: none;
     outline: none;
-	background: none;
-	font-size: inherit;
-	font-family: inherit;
+    background: none;
+    font-size: inherit;
+    font-family: inherit;
     line-height: inherit;
     cursor: var(--cursor-button);
 
@@ -47,7 +47,7 @@ button {
     }
 
     &::-moz-focus-inner {
-        border:0;
+        border: 0;
     }
 }
 
